@@ -1618,7 +1618,7 @@
 		}
 
 		.wrapper.style4 {
-			background-color: #303030;
+			background-color:  #002F5D;
 			color: #999;
 			text-shadow: -1px -1px 0px #181818;
 		}
@@ -1632,14 +1632,14 @@
 			.wrapper.style4 form select,
 			.wrapper.style4 form textarea {
 				border: none;
-				background: #282828;
+				background: #000000;
 			}
 
 				.wrapper.style4 form input[type=text]:focus,
 				.wrapper.style4 form input[type=password]:focus,
 				.wrapper.style4 form select:focus,
 				.wrapper.style4 form textarea:focus {
-					background: #252525;
+					background: #959799;
 				}
 
 /* Nav */
@@ -2103,4 +2103,4 @@
 					display: block;
 				}
 
-	} 
+	}
